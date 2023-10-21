@@ -3,8 +3,8 @@ Configured scripts of cyberpower powerpanel.
 This script will send email and MQTT msg when power event happens.
 
 ## Requirements
-powerpanel
-mosquitto
+powerpanel,
+mosquitto,
 mosquitto-clients
 
 ## Installation
